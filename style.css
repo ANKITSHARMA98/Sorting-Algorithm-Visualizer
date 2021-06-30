@@ -1,0 +1,139 @@
+
+
+body {
+  font-family: 'Montserrat', monospace;
+  font-size: 20px;
+  padding: 0;
+  margin: 0;
+  line-height: 1.4;
+}
+
+h3 {
+  font-family: 'Monoton', cursive;
+  color: white;
+  line-height: 2;
+}
+
+.center-nav {
+  text-align: center;
+  align-content: center;
+
+}
+
+.newArray-btn {
+  padding-left: 30%;
+  padding-right: 30%;
+}
+
+.sorting-buttons {
+  margin: 1.7%;
+}
+
+.reset {
+  color: white;
+}
+
+a:active {
+  color: white;
+}
+
+a:link {
+  text-decoration: none;
+}
+
+a {
+  color: white;
+  transform: rotate(90deg);
+}
+
+.colPad {
+  padding-top: 1%;
+  padding-bottom: 1%;
+  align-items: center;
+}
+
+.flex-container {
+  margin-top: 40px;
+  display: flex;
+  flex-wrap: nowrap;
+  width: 100%;
+  height: 530px;
+  justify-content: center;
+  -webkit-transform: rotateX(180deg);
+  transform: rotateX(180deg);
+
+}
+
+
+.flex-item {
+  background: rgb(218, 102, 8);
+  border: 1pt solid black;
+  width: 9px;
+  transition: 0.1s all ease;
+  -webkit-transform: rotateX(180deg);
+  transform: rotateX(180deg);
+}
+
+.medium-flex-item {
+  background: rgb(8, 42, 233);
+  border: 1pt solid black;
+  width: 14px;
+  transition: 0.1s all ease;
+  -webkit-transform: rotateX(180deg);
+  transform: rotateX(180deg);
+}
+
+.small-flex-item {
+  background: rgb(224, 64, 224);
+  border: 1pt solid black;
+  width: 30px;
+  transition: 0.1s all ease;
+  -webkit-transform: rotateX(180deg);
+  transform: rotateX(180deg);
+}
+
+.smallest-flex-item {
+  background: rgb(231, 26, 26);
+  border: 1pt solid black;
+  width: 50px;
+  transition: 0.1s all ease;
+  -webkit-transform: rotateX(180deg);
+  transform: rotateX(180deg);
+}
+
+
+#input {
+  display: flex;
+  padding: 10px;
+  justify-content: space-around;
+  color: rgb(255, 255, 255);
+  
+}
+
+#header {
+  font-family: 'PT Mono', monospace;
+  background-color: #101010;
+  padding: 0;
+  margin: 0;
+  height: 350px; 
+ 
+}
+
+#newArray {
+  margin-left: auto;
+  margin-right: auto;
+
+}
+
+.row{
+  height: 200px; 
+}
+
+.btn {
+  background-color: gray;
+  
+}
+.btn:hover {
+  background-color:rgb(23, 207, 23);
+  
+}
