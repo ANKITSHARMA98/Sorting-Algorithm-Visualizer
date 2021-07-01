@@ -1,4 +1,4 @@
-# Sorting-Algorithm-Visualizer [From](https://github.com/karanS1314)
+# Sorting-Algorithm-Visualizer [From Gurkaran Singh](https://github.com/karanS1314)
 ##### A web app built in JavaScript/DOM and HTML/CSS for visualizing a bunch of different sorting algorithms like:
 - Bubble Sort 
 - Selection Sort
